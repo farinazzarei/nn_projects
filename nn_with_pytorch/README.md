@@ -22,7 +22,7 @@ pip install seaborn
 ## how to run
 To run this Jupyter Notebook, you can either open it in Google Colab using the link below or run it locally using Jupyter Notebook.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/farinazzarei/NN_with_torch/blob/main/nn_with_torch.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/farinazzarei/nn_projects/blob/main/nn_with_pytorch/nn_with_torch.ipynb)
 
 Install Jupyter Notebook (if you don't have it yet):
 
@@ -31,8 +31,8 @@ pip install notebook
 ```
 clone this repository :
 ```bash
-git https://github.com/farinazzarei/NN_with_torch.git
-cd NN_with_torch
+git clone https://github.com/farinazzarei/nn_projects.git
+cd nn_projects/nn_with_pytorch
 ```
 Launch Jupyter Notebook:
 ```bash
