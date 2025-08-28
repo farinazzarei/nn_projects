@@ -23,7 +23,7 @@ pip install medmnist
 ## how to run
 To run this Jupyter Notebook, you can either open it in Google Colab using the link below or run it locally using Jupyter Notebook.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/farinazzarei/nn_projects/more_nn_with_torch/blob/main/nn_with_torch.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/farinazzarei/nn_projects/blob/main/nn_with_pytorch/nn_with_torch.ipynb)
 
 Install Jupyter Notebook (if you don't have it yet):
 
